@@ -1,0 +1,12 @@
+.borderOn_red {
+  outline: 1px solid #f00;
+}
+.borderOn_blue {
+  outline: 1px solid #00f;
+}
+.borderOn_green {
+  outline: 1px solid #0f0;
+}
+.borderOn_undefined {
+  outline: 1px solid #f00;
+}
